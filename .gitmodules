@@ -1,0 +1,27 @@
+[submodule "bzip2"]
+	path = bzip2
+	url = ../../cpp-port/bzip2
+[submodule "iconv"]
+	path = iconv
+	url = ../../cpp-port/iconv
+[submodule "id3lib"]
+	path = id3lib
+	url = ../../cpp-port/id3lib
+[submodule "idn"]
+	path = idn
+	url = ../../cpp-port/idn
+[submodule "libarchive"]
+	path = libarchive
+	url = ../../cpp-port/libarchive
+[submodule "libmpg123"]
+	path = libmpg123
+	url = ../../cpp-port/libmpg123
+[submodule "pcre"]
+	path = pcre
+	url = ../../cpp-port/pcre
+[submodule "zlib"]
+	path = zlib
+	url = ../../cpp-port/zlib
+[submodule "sqlite"]
+	path = sqlite
+	url = ../../cpp-port/sqlite
