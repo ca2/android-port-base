@@ -25,3 +25,6 @@
 [submodule "sqlite"]
 	path = sqlite
 	url = ../../cpp-port/sqlite
+[submodule "mpg123"]
+	path = mpg123
+	url = ../../cpp-port/libmpg123
