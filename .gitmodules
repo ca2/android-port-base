@@ -31,3 +31,6 @@
 [submodule "archive"]
 	path = archive
 	url = ../../cpp-port/archive
+[submodule "zstd"]
+	path = zstd
+	url = ../../cpp-port/zstd
