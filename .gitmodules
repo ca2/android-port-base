@@ -28,3 +28,6 @@
 [submodule "mpg123"]
 	path = mpg123
 	url = ../../cpp-port/libmpg123
+[submodule "archive"]
+	path = archive
+	url = ../../cpp-port/archive
