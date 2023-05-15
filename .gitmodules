@@ -46,3 +46,7 @@
 	path = minizip
 	url = ../../cpp-port/minizip
 	branch = main
+[submodule "openddlparser"]
+	path = openddlparser
+	url = ../../cpp-port/openddlparser
+	branch = main
