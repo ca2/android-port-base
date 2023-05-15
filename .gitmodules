@@ -34,3 +34,11 @@
 [submodule "zstd"]
 	path = zstd
 	url = ../../cpp-port/zstd
+[submodule "pugixml"]
+	path = pugixml
+	url = ../../cpp-port/pugixml
+	branch = main
+[submodule "stb"]
+	path = stb
+	url = ../../cpp-port/stb
+	branch = main
