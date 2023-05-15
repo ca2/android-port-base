@@ -42,3 +42,7 @@
 	path = stb
 	url = ../../cpp-port/stb
 	branch = main
+[submodule "minizip"]
+	path = minizip
+	url = ../../cpp-port/minizip
+	branch = main
