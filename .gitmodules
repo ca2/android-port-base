@@ -54,3 +54,7 @@
 	path = zip
 	url = ../../cpp-port/zip
 	branch = main
+[submodule "unac"]
+	path = unac
+	url = ../../cpp-port/unac
+	branch = main
